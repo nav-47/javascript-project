@@ -1,0 +1,37 @@
+body{
+  background-color: black;
+}
+.digit-button, .clear-button{
+  background-color: rgb(52, 52, 52);
+  color: white;
+  border: none;
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  font-size: 26px;
+  margin-right: 5px;
+  cursor: pointer;
+  
+  
+}
+.clear-button{
+  font-size: 17px;
+
+}
+.operation-button{
+  background-color: rgb(254, 160, 10);
+  color: white;
+  border: none;
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  font-size: 26px;
+  cursor: pointer;
+}
+.js-display-calculation{
+  color: white;
+  font-size: 45px;
+  font-family: Arial;
+  margin: 15px 0px 5px 0px;
+  
+}
